@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kshitij</h1>
 <h3 align="center">A passionate Backend Developer from India</h3>
 
-- 🔭 I’m currently working on **building my personal portfolio website**
+- 🔭 I’m currently working on **building the next user Personal Assistant (Bhidu)**
 
 - 🌱 I’m currently learning **Three.js, lightroom**
 
 - 💬 Ask me about **Java, Kotlin, Spring, Python, Django**
 
 - 📫 How to reach me **banka.kshitij04@gmail.com**
+
+- More about me at **www.kshitijbanka.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
